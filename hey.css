@@ -1,0 +1,53 @@
+#text{
+				font-size: 30px;
+				borde 10px;
+				b
+				color: #ffbd40;
+				background: ;
+}
+
+#Search:hover{
+				border-radius: 13px ;
+				border: 6px Solid grey;
+				color: grey;
+				background: White;
+}
+#Go:hover{
+				color: Green;
+				background: White;
+				border-radius: 13px;
+				border: 6px solid grey;
+				color: grey;
+}
+#Search2:hover{
+				border-radius: 13px ;
+				border: 6px Solid grey;
+				color: grey;
+				background: White;
+}
+#Go2:hover{
+				color: Green;
+				border-radius: 13px;
+				border: 6px solid grey;
+				color: grey;
+				background: White;
+}
+
+#Search2{
+				border: 6px Solid Black;
+}
+
+#Go2{
+				border: 6px solid black;
+				background: White;
+}
+
+#Search{
+				border: 6px Solid Black;
+				background: White;
+}
+
+#Go{
+				border: 6px solid black;
+				background: White;
+}
